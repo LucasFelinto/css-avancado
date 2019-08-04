@@ -1,0 +1,26 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Lading page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass sass/main.scss css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasFelinto/css-avancado.git"
+  },
+  "author": "Lucas Felinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasFelinto/css-avancado/issues"
+  },
+  "homepage": "https://github.com/LucasFelinto/css-avancado#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "sass": "^1.22.9"
+  }
+}
